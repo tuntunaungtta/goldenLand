@@ -1,0 +1,100 @@
+body{
+	background-color: lightblue;
+	/*background: linear-gradient(red,orange,yellow,green,blue,indigo,violet);*/
+}
+.titleBar{
+	background-color: blue;
+	color: yellow;
+	border-radius: 5px;
+	height: 45px;
+}
+.title{ 
+	color: black;
+	font-size: 200%;
+	font-weight: bolder;
+	letter-spacing: 5px;
+	text-shadow: 2px 2px 1px green;
+	margin: 0px 200px 0px 20px;
+}
+.menu{
+	color: black;
+	text-decoration: none;
+	margin: 50px;
+	border:2px solid white;
+	font-size: 120%;
+	border-radius: 5px;
+	background-color: white;
+	padding: 0px 30px;
+	margin-left: 20px;
+}
+.menu:hover{
+	color: orange;
+	background-color:lightgreen;
+}
+.image-jpg{
+	width: 100%;
+	height: 200px; 
+	border-radius: 5px;
+	margin-top: 5px;
+}
+.paragraph{
+	width: 500px;
+	background-color: green;
+	text-indent: 
+}
+
+.title-paragraph{
+	color: red;
+	font-weight: bolder;
+	font-size: 20px;
+	font-style: italic;
+
+}
+.box{
+	float: left;
+	margin:0px 11px;
+	width: 23%;
+	height: 320px;
+	border:2px solid black;
+	border-radius: 5px;
+	background-color: black;
+}
+.postTitle{
+	color: white;
+	text-align: center;
+	background-color: blue;
+	padding: 5px 0px;
+}
+.postText{
+	text-align: justify;
+	text-indent: 20px;
+	color: white;
+}
+.postLink{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	border: 1px solid black;
+	padding: 0px 10px;
+	border-radius: 5px;
+	border-color: blue;
+	margin-left: 200px;
+}
+.postLink:hover{
+	color: white;
+	background-color: black;
+}
+.footer{
+	float: left;
+	color: white;
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+	background-color: blue;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.loremSize{
+	font-size: 30px;
+	color: blue;
+}
